@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "deluxe",
+  "version": "38.1.5-recovered",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "deluxe.client.DeluxeClient"
+    ],
+    "client": [
+      "deluxe.client.DeluxeClient"
+    ]
+  },
+  "mixins": [
+    "deluxe.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

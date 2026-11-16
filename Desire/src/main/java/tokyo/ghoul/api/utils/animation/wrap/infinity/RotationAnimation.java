@@ -1,0 +1,42 @@
+package tokyo.ghoul.api.utils.animation.wrap.infinity;
+
+import tokyo.ghoul.api.utils.animation.Easing;
+import tokyo.ghoul.api.utils.rotation.manager.Rotation;
+
+public class RotationAnimation {
+	   
+	private final InfinityAnimation yaw = new InfinityAnimation();
+	private final InfinityAnimation pitch = new InfinityAnimation();
+	
+    public Rotation animate(Rotation rotation, int yawSpeed, int pitchSpeed) {
+        return new Rotation(
+        		yaw.animate(rotation.getYRot(), yawSpeed),
+        		pitch.animate(rotation.getXRot(), pitchSpeed)
+        );
+    }
+    
+    public float getYaw() {
+    	return this.yaw.get();
+    }
+    
+    public float getPitch() {
+    	return this.pitch.get();
+    }
+
+    public float getYRot() {
+        return getYaw();
+    }
+
+    public float getXRot() {
+        return getPitch();
+    }
+    
+    public RotationAnimation easing(Easing easing) {
+    	yaw.easing(easing);
+	    	pitch.easing(easing);
+		
+		return this;
+	}
+    
+
+}

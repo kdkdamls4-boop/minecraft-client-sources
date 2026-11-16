@@ -1,0 +1,7 @@
+Original project: Dynamic Surroundings Fabric by OreCruncher
+Version: 0.4.5 (Minecraft 1.21.1)
+Homepage: https://github.com/OreCruncher/DynamicSurroundingsFabric
+Original mod metadata states license: MIT.
+Original assets/dsurround/sounds.json preserves each source audio credit and individual license.
+IMPORTANT: individual sound licenses may carry Attribution or NonCommercial restrictions; see the accompanying CREDITS.md.
+Skycore 26.2 standalone adapter is a partial source-inspired port, not the original mod binary.

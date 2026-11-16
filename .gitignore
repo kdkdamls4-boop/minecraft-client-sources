@@ -1,0 +1,39 @@
+# Build, Gradle & IDE caches
+.gradle/
+.gradle_home/
+.gradle-user/
+build/
+out/
+bin/
+.idea/
+.vscode/
+*.iml
+*.class
+*.log
+
+# Game runtime folders (saves, configs, logs, mods)
+run/
+
+# Local build helper scripts & audit metadata with local paths
+audit_results.json
+build_deluxe.ps1
+run_build.ps1
+
+# Heavy archives & compiled jars (keep gradle-wrapper jars)
+*.zip
+*.rar
+*.7z
+*.jar
+!**/gradle/wrapper/gradle-wrapper.jar
+
+# Secrets & personal credentials
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.jks
+accounts.json
+credentials.json
+local.properties

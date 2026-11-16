@@ -1,0 +1,17 @@
+.gradle/
+.gradle-user-home/
+build/
+run/
+.idea/
+hs_err_pid*.log
+*.hprof
+tools/*.class
+tools/dependencies/
+tools/gradle-*/
+recovery/sample/
+recovery/prepared.jar
+recovery/*.log
+recovery/decompiled*/
+recovery/generic-sample/
+tools/tmp/
+*.zip

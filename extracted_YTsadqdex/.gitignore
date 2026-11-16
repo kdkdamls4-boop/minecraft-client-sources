@@ -1,0 +1,7 @@
+.gradle/
+.gradle-user/
+build/
+run/
+recovery/
+tools/asm-classes/
+tools/*.class

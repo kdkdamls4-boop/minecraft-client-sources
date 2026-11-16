@@ -1,0 +1,21 @@
+package tokyo.ghoul.inject.render;
+
+import net.minecraft.client.renderer.fog.FogRenderer;
+import net.minecraft.client.renderer.fog.FogData;
+import net.minecraft.client.Camera;
+import net.minecraft.client.DeltaTracker;
+import net.minecraft.client.multiplayer.ClientLevel;
+import org.spongepowered.asm.mixin.Mixin;
+import org.spongepowered.asm.mixin.injection.At;
+import org.spongepowered.asm.mixin.injection.Inject;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
+import tokyo.ghoul.client.features.modules.render.AmbienceModule;
+
+@Mixin(FogRenderer.class)
+public class MixinFogRenderer {
+    @Inject(method = "setupFog", at = @At("RETURN"))
+    private void applyCustomFog(Camera camera, int renderDistance, DeltaTracker deltaTracker, float darkenWorldAmount,
+                                ClientLevel level, CallbackInfoReturnable<FogData> cir) {
+        AmbienceModule.getInstance().applyCustomFog(cir.getReturnValue());
+    }
+}

@@ -1,0 +1,62 @@
+{
+  "nursultan_off": {
+    "sounds": [
+      "desire:nursultan_off"
+    ]
+  },
+  "nursultan_on": {
+    "sounds": [
+      "desire:nursultan_on"
+    ]
+  },
+  "celestial_off": {
+    "sounds": [
+      "desire:celestial_off"
+    ]
+  },
+  "celestial_on": {
+    "sounds": [
+      "desire:celestial_on"
+    ]
+  },
+  "smooth_off": {
+    "sounds": [
+      "desire:smooth_off"
+    ]
+  },
+  "smooth_on": {
+    "sounds": [
+      "desire:smooth_on"
+    ]
+  },
+  "akrien_on": {
+    "sounds": [
+      "desire:akrien_on"
+    ]
+  },
+  "akrien_off": {
+    "sounds": [
+      "desire:akrien_off"
+    ]
+  },
+  "tech_on": {
+    "sounds": [
+      "desire:tech_on"
+    ]
+  },
+  "tech_off": {
+    "sounds": [
+      "desire:tech_off"
+    ]
+  },
+  "blop_on": {
+    "sounds": [
+      "desire:blop_on"
+    ]
+  },
+  "blop_off": {
+    "sounds": [
+      "desire:blop_off"
+    ]
+  }
+}

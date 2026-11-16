@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+    "accessWidener": "desire.accesswidener",
+	"id": "desire",
+	"version": "${version}",
+	"name": "Desire",
+	"description": "So Sweetie (Fox)",
+	"authors": [
+		"Remila"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/desire/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"tokyo.ghoul.Desire"
+		]
+	},
+	"mixins": [
+		"desire.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.0",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

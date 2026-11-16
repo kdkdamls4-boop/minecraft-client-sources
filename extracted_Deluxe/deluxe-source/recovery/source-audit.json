@@ -1,0 +1,56 @@
+{
+  "original_jar_sha256": "258f869fd639f48417a801aec2bd8fbd18e41b085ee4d7662d23d054d5030724",
+  "original_jar_size": 46512469,
+  "java_source_files": 544,
+  "packages": 28,
+  "original_resource_entries": 440,
+  "unchanged_resource_entries": 438,
+  "changed_resource_entries": [
+    "fabric.mod.json",
+    "deluxe.mixins.json"
+  ],
+  "relocated_resource": "META-INF/jars/luaj-jse-3.0.1.jar -> libs/luaj-jse-3.0.1.jar",
+  "unchanged_java_bindings": 100884,
+  "remaining_technical_declaration_names": {
+    "LOCAL_VARIABLE": 4634,
+    "METHOD": 3145,
+    "PARAMETER": 5470,
+    "FIELD": 3171,
+    "RECORD": 92,
+    "CLASS": 61,
+    "RESOURCE_VARIABLE": 4,
+    "BINDING_VARIABLE": 7,
+    "ENUM": 13,
+    "INTERFACE": 8
+  },
+  "native_declarations": 6,
+  "compiled_classes": 735,
+  "classfile_major_version": 65,
+  "classes_verified_by_name": 723,
+  "anonymous_classes_verified_by_parent_and_hierarchy": 12,
+  "removed_classes": [
+    "otiq6u/VXRz8u"
+  ],
+  "built_jar_sha256": "e91d76e9d0856f8413e0e08c8f05bda68a767038e12d8fab888f3391678a609e",
+  "gradle_build": "passed",
+  "recovery_checks": "passed",
+  "runClient": "passed: orderly shutdown, Gradle exit 0",
+  "minecraft_version": "1.21.11",
+  "runtime_jdk": 25,
+  "msdf_fonts_loaded": [
+    "semi",
+    "semi_bold",
+    "bold",
+    "mini",
+    "thin",
+    "icons",
+    "nametagicon"
+  ],
+  "shader_compile_errors": 0,
+  "unverified": [
+    "all module behaviors",
+    "world creation and gameplay after final package migration",
+    "external cosmetic catalog: HTTP 403",
+    "missing native implementations"
+  ]
+}

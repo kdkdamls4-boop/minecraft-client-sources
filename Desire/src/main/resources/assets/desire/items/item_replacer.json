@@ -1,0 +1,846 @@
+{
+    "model":  {
+                  "property":  "minecraft:custom_model_data",
+                  "fallback":  {
+                                   "model":  "minecraft:item/diamond_sword",
+                                   "type":  "minecraft:model"
+                               },
+                  "cases":  [
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/abominableblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Abominable Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/abominablegreatsaber",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Abominable Greatsaber"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/abominablescythe",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Abominable Scythe"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/aciddemon",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Acid Demon"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/amethyst_shuriken",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Amethyst Shuriken"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/ancient_royal_great_sword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Ancient Royal Greatsword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/aquantic_sacred_blade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Aquantic Sacred Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/aquantictrident",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Aquantic Trident"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/arcanethyst",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Arcanethyst"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/ashura_blade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Ashura Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/awakened_lichblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Awakened Lichblade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/bloodedge",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Blood Edge"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/bloodydeath",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Bloody Death"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/bramblethorn",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Bramblethorn"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/brimstone_claymore",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Brimstone Claymore"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/cariansword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Carian Sword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/chrono_blade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Chrono Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/corruptedmythicblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Corrupted Mythic Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/creationsplitter",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Creation Splitter"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/crescentrose",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Crescent Rose"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/cyberkatana",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Cyber Katana"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/cybermantisblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Cyber Mantis Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/cybernetickatana",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Cybernetic Katana"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/cyberneticknife",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Cybernetic Knife"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/cyberneticsawblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Cybernetic Sawblade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/cybersword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Cyber Sword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/dainsleif",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Dainsleif"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/dark_blade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Dark Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/dark_cleaver",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Dark Cleaver"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/death_knight_dagger",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Death Knight Dagger"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/death_knight_sword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Death Knight Sword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/demigodsunholyblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Demigod\u0027s Unholy Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/demigodsunholyhalberd",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Demigod\u0027s Unholy Halberd"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/demonicblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Demonic Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/demoniccleaver",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Demonic Cleaver"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/demonlordsgreataxe",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Demon Lord\u0027s Great Axe"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/demonlordsword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Demon Lord\u0027s Sword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/divine_justice",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Divine Justice"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/divine_reaper",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Divine Reaper"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/divineaxerhitta",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Divine Axe Rhitta"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/divinepunisher",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Divine Punisher"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/dragonslayingblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Dragon Slaying Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/edgeoftheastralplane",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Edge of the Astral Plane"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/emberblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Emberblade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/enigma",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Enigma"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/epicsword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Epic Sword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/estoc",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Estoc"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/excalibur",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Excalibur"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/fallengodspear",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Fallen God Spear"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/fallengodsword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Fallen God Sword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/floral_longsword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Floral Longsword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/floral_sabre",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Floral Sabre"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/forest_guardian_glaive",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Forest Guardian Glaive"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/frostaxe",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Frost Axe"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/frostblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Frostblade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/frostscythe",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Frost Scythe"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/greenscythe",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Green Scythe"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/hearthflame",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Hearthflame"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/herosword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Hero Sword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/holymoonlightsword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Holy Moonlight Sword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/hornetsneedle",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Hornet\u0027s Needle"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/icewhisper",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Ice Whisper"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/jadehalberd",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Jade Halberd"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/katana",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Katana"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/legendarysword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Legendary Sword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/longsword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Longsword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/magiscythe",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Magi Scythe"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/masamune",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Masamune"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/mjolnir",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Mjolnir"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/moltenblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Molten Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/moltensword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Molten Sword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/muramasa",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Muramasa"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/mysticalspellblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Mystical Spellblade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/mythicblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Mythic Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/partisan",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Partisan"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/pharaohs_treasure",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Pharaoh\u0027s Treasure"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/pheonixgrace",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Phoenix Grace"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/powerfusehammer",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Powerfuse Hammer"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/powerfusesword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Powerfuse Sword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/requiem_of_hell",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Requiem of Hell"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/ribboncleaver",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Ribbon Cleaver"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/righteous_relic",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Righteous Relic"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/riversofblood",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Rivers of Blood"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/royalchakram",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Royal Chakram"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/royalrapier",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Royal Rapier"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/sabre",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Sabre"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/scissorblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Scissor Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/sculkcleaver",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Sculk Cleaver"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/sculkscythe",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Sculk Scythe"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/sculksword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Sculk Sword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/sentinels_will",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Sentinel\u0027s Will"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/silverine_blade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Silverine Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/soulclaws",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Soul Claws"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/souledge",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Soul Edge"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/soulharvester",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Soul Harvester"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/soulrender",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Soul Render"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/soulstealer",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Soul Stealer"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/soul_collector",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Soul Collector"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/soul_devourer",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Soul Devourer"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/stars_edge",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Star\u0027s Edge"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/steelsword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Steel Sword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/stop_sign",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Stop Sign"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/stormbringer",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Stormbringer"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/storms_edge",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Storm\u0027s Edge"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/sunbreak",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Sunbreak"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/tengensblade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Tengen\u0027s Blade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/terrablade",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Terrablade"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/thousanddemondaggers",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Thousand Demon Daggers"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/thunderbrand",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Thunderbrand"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/thunderbringer",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Thunderbringer"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/toxic_longsword",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Toxic Longsword"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/vampiricneedle",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Vampiric Needle"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/wakizashi",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Wakizashi"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/watcher_claymore",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Watcher Claymore"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/watching_warglaive",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Watching Warglaive"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/waxweaver",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Waxweaver"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/whisperwind",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Whisperwind"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/wickpiercer",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Wickpiercer"
+                                },
+                                {
+                                    "model":  {
+                                                  "model":  "minecraft:item/yoru",
+                                                  "type":  "minecraft:model"
+                                              },
+                                    "when":  "Yoru"
+                                }
+                            ],
+                  "type":  "minecraft:select",
+                  "index":  0
+              }
+}

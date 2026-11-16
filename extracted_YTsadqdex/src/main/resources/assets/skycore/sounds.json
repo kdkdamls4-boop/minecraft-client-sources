@@ -1,0 +1,32 @@
+{
+  "client.enable1": {
+    "sounds": [
+      "skycore:enable/1"
+    ]
+  },
+  "client.enable2": {
+    "sounds": [
+      "skycore:enable/2"
+    ]
+  },
+  "client.enable3": {
+    "sounds": [
+      "skycore:enable/3"
+    ]
+  },
+  "client.enable4": {
+    "sounds": [
+      "skycore:enable/4"
+    ]
+  },
+  "client.enable5": {
+    "sounds": [
+      "skycore:enable/5"
+    ]
+  },
+  "client.enable6": {
+    "sounds": [
+      "skycore:enable/6"
+    ]
+  }
+}
